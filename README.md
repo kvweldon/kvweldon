@@ -9,7 +9,7 @@
   - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
  
   - - <b>Lab / Pentest Projects</b>
-  - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
+  - [Intelligence Gathering](https://apple.com)
 
 
 <h2> 🔭 I’m currently pursuing:</h2>
