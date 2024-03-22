@@ -9,7 +9,8 @@
   - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
 
 <h2> 🔭 I’m currently pursuing:</h2>
-  - [Master's in Cybersecurity and Information Assurance](https://wgu.edu)
+  - [Master's in Cybersecurity and Information Assurance](https://apple.com)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
