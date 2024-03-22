@@ -8,6 +8,8 @@
 - <b>Lab / Pentest Projects</b>
   - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
 
+<h2> 🔭 I’m currently pursuing:</h2>
+- <b>Master's in Cybersecurity and Information Assurance</b>
 
 <h2> 🤳 Connect with me:</h2>
 
