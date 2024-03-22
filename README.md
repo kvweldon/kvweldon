@@ -9,7 +9,7 @@
   - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
  
   - - <b>Lab / Pentest Projects</b>
-  - [Intelligence Gathering](https://apple.com)
+  - [Intelligence Gathering](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html)
 
 
 <h2> 🔭 I’m currently pursuing:</h2>
