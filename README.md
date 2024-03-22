@@ -7,6 +7,10 @@
 
 - <b>Lab / Pentest Projects</b>
   - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
+ 
+  - - <b>Lab / Pentest Projects</b>
+  - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
+
 
 <h2> 🔭 I’m currently pursuing:</h2>
   - [Master's in Cybersecurity and Information Assurance](https://apple.com)
