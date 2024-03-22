@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I'm Kyle! Aspiring Cybersecurity Analyst</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
