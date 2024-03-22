@@ -10,7 +10,7 @@
  
 <h2> 🔭 I’m currently pursuing:</h2> 
  
-  - - <b>Lab / Pentest Projects</b>
+- <b>Lab / Pentest Projects</b>
   - [Intelligence Gathering](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html)
 
 
