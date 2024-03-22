@@ -6,7 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/kvweldon/AZURE-SOC)
 
 - <b>Lab / Pentest Projects</b>
-  - [Intelligence Gathering]([https://github.com/kvweldon/AZURE-SOC](https://github.com/kvweldon/Intelligence-Gathering)
+  - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
 
 
 <h2> 🤳 Connect with me:</h2>
