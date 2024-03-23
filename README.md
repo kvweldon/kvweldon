@@ -8,6 +8,8 @@
 - <b>Lab / Pentest Projects</b>
   - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
  
+  - [Intelligence Gathering](https://github.com/kvweldon/Social-Engineering)
+ 
 <h2> 🔭 I’m currently pursuing:</h2> 
  
 
