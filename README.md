@@ -11,7 +11,8 @@
   - [Social Engineering](https://github.com/kvweldon/Social-Engineering)
  
   - [Discovery with Nmap](https://github.com/kvweldon/Discovering-Information-using-Nmap)
-
+ 
+  - [Vulnerability Scans & Analysis](https://github.com/kvweldon/Vulnerability-Scans-and-Analysis)
 
 
  
