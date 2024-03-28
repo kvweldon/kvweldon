@@ -5,7 +5,7 @@
 - <b>Cloud Projects / Azure</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/kvweldon/AZURE-SOC)
 
-- <b>Lab Projects/ Pentest</b>
+- <b>Lab Projects / Pentest</b>
   - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
  
   - [Social Engineering](https://github.com/kvweldon/Social-Engineering)
