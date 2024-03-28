@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Cloud Projects / Azure</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/kvweldon/AZURE-SOC)
 
-- <b>Lab / Pentest Projects</b>
+- <b>Lab Projects/ Pentest</b>
   - [Intelligence Gathering](https://github.com/kvweldon/Intelligence-Gathering)
  
   - [Social Engineering](https://github.com/kvweldon/Social-Engineering)
