@@ -13,6 +13,8 @@
   - [Discovery with Nmap](https://github.com/kvweldon/Discovering-Information-using-Nmap)
  
   - [Vulnerability Scans & Analysis](https://github.com/kvweldon/Vulnerability-Scans-and-Analysis)
+ 
+  - [Penetrating an Internal Network](https://github.com/kvweldon/Penetrating-an-Internal-Network)
 
 
  
