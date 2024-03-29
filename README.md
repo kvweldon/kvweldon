@@ -16,7 +16,7 @@
  
   - [Penetrating an Internal Network](https://github.com/kvweldon/Penetrating-an-Internal-Network)
  
-  - [Penetrating an Internal Network](https://github.com/kvweldon/Exploiting-Web-Authentication)
+  - [Exploiting Web Authentication](https://github.com/kvweldon/Exploiting-Web-Authentication)
 
 
  
